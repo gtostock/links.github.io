@@ -1,45 +1,76 @@
 ## Links
 
 ###Smart Contracts
+
 [CryptoZombies](https://cryptozombies.io/en/course/)
+
 [Ethereum-dev-speed-run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
+
 [Openzeppelin](https://docs.openzeppelin.com/openzeppelin/) OpenZeppelin provides a complete suite of security products to build, manage, and inspect all aspects of software development and operations for Ethereum projects.
+
 [Introduction-to-smart-contracts](https://docs.soliditylang.org/en/v0.8.8/introduction-to-smart-contracts.html)
+
 [Learn XinY Minutes](https://learnxinyminutes.com/docs/solidity/)
+
 [Solidity-by-example.html#solidity-by-example](https://docs.soliditylang.org/en/v0.8.8/solidity-by-example.html#solidity-by-example)
+
 [Smart Contract Programmer - Videos](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
+
 [Ethereum, Smart Contracts, DeFi etc - Videos](https://www.youtube.com/c/EatTheBlocks/videos)
+
 [Ethernaut - Game](https://ethernaut.openzeppelin.com/)The Ethernaut is a Web3/Solidity based wargame inspired on overthewire.org, played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
+
 [An Educational Sandbox For Web3](https://eth.build/)
+
 [Everything you need to build on Ethereum](https://github.com/scaffold-eth/scaffold-eth)
+
 [Ethereum Developer Resource](https://ethereum.org/en/developers/)
+
 [Smart Contract Tutorials](https://smartcontractdb.com/tutorialsX)
 
 ###Smart Contract Tools
+
 [Ethereum Developer Tool List](https://github.com/ConsenSys/ethereum-developer-tools-list)
+
 [OpenZeppelin Library](https://github.com/OpenZeppelin/openzeppelin-contracts)A library for secure smart contract development. Build on a solid foundation of community-vetted code.
+
 [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+
 [Modular Libraries](https://github.com/modular-network/ethereum-libraries#modular-libraries)Modular Libraries is a group of packages built for use on blockchains utilizing the Ethereum Virtual Machine (EVM). All libraries are deployed and linkable in your smart contracts on both Rinkeby, Ropsten, and Ethereum Mainnet.
+
 [Solidity Patterns](https://github.com/fravoll/solidity-patterns)
+
 [DeFi Smart Contracts](https://github.com/defiprime/defi-smart-contracts)List of known DeFi apps smart contracts
+
 [The best blog to see how not to write smart contracts](https://samczsun.com/)
 
 ###Security
+
 [Eth Security Toolbox](https://github.com/trailofbits/eth-security-toolbox)
+
 [Smart Contract Security](https://secureum.substack.com/p/smart-contract-security-101-secureum)
+
 [Not So Smart Contracts](https://github.com/crytic/not-so-smart-contracts)
+
 [Smart contract security service for Ethereum](https://mythx.io/)
+
 [Introduction into Mutation Testing](https://joranhonig.nl/introduction-into-mutation/)
+
 [VScode Solidity Auditor](https://github.com/ConsenSys/vscode-solidity-auditor)
+
 [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs)
+
 [Rekt News](https://rekt.news/)
 
 ### Concepts
+
 [Finematics](https://www.youtube.com/c/Finematics/videos)
+
 [Zero Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 
 ### Development
 [Gitcoin](https://gitcoin.co/) Build and Fund the Open Web Together. Connect with the community developing digital public goods, creating financial freedom, and defining the future of the open web.
+
 [Design and Specification Tools](https://kernel.community/en/resources/design-spec)
 
 
