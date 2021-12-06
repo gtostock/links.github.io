@@ -1,6 +1,4 @@
-## Links
-
-###Dashboards
+##Dashboards
 
 [DAO Ecosystem Overview](https://deepdao.io/#/deepdao/dashboard)
 
@@ -9,7 +7,7 @@
 [Comparing NFT Platforms : NFT Platforms](https://docs.google.com/spreadsheets/u/1/d/1eji5PVW-TQ8FbAaGTFR7tGwYeZ92pQss30ttLJjw3yg/htmlview)
 
 
-###Smart Contracts
+##Smart Contracts
 
 [Smart Contract Tools and Practices ***](https://kernel.community/en/resources/smart-contracts)
 
@@ -40,7 +38,7 @@
 [Smart Contract Tutorials](https://smartcontractdb.com/tutorialsX)
 
 
-###Smart Contract Tools
+##Smart Contract Tools
 
 [Ethereum Developer Tool List](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
@@ -57,7 +55,7 @@
 [The best blog to see how not to write smart contracts](https://samczsun.com/)
 
 
-###Security
+##Security
 
 [Security Best Practices](https://kernel.community/en/resources/security)
 
@@ -78,7 +76,7 @@
 [Rekt News](https://rekt.news/)
 
 
-### Concepts
+## Concepts
 
 [Finematics](https://www.youtube.com/c/Finematics/videos)
 
@@ -99,21 +97,21 @@
 [Digital Communications Protocols](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0)
 
 
-### Development
+## Development
 [Gitcoin](https://gitcoin.co/) Build and Fund the Open Web Together. Connect with the community developing digital public goods, creating financial freedom, and defining the future of the open web.
 
 [Design and Specification Tools](https://kernel.community/en/resources/design-spec)
 
 
-### Layer 2 Block Chains
+## Layer 2 Block Chains
 [Coinweb (CWEB)](https://coinweb.io/) Distributed ledger technology (DLT) is spread across multiple different blockchains and systems. Coinweb is unifying blockchains, closing the gaps between solutions and integrating new technical advancements to the space. In short: it’s a secure, fast, reliable, connected solution to the biggest issues facing blockchain today. And it all runs on Coinweb’s Inchain architecture.
 
 
-###Defi
+##Defi
 [Compound (COMP)](https://compound.finance/) It is an Ethereum token that enables community governance of the Compound protocol. The protocol is a series of decentralized interest rate markets that allow users to supply and borrow Ethereum tokens at variable interest rates. COMP token holders and their delegates can also debate, propose, and vote on changes to the protocol. [More...](https://www.coinbase.com/price/compound)
 
 
-### Mining
+## Mining
 
 [Compass Mining](https://compassmining.io/) Customers host miners through Compass in there facility.
 
@@ -123,7 +121,7 @@
 
 
 
-### Manage Mining
+## Manage Mining
 
 [ASIC Miner Value](https://www.asicminervalue.com/) Miners profitability. Live income estimation of all known ASIC miners, updated every minute. Profits calculated over 200+ coins and 25+ algorithms.
 
@@ -135,6 +133,6 @@
 
 
 
-### Blogs
+## Blogs
 
 [Coingecko](https://www.coingecko.com/en) 
