@@ -18,7 +18,7 @@
 
 [Ethereum, Smart Contracts, DeFi etc - Videos](https://www.youtube.com/c/EatTheBlocks/videos)
 
-[Ethernaut - Game](https://ethernaut.openzeppelin.com/)The Ethernaut is a Web3/Solidity based wargame inspired on overthewire.org, played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
+[Ethernaut - Game](https://ethernaut.openzeppelin.com/) The Ethernaut is a Web3/Solidity based wargame inspired on overthewire.org, played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
 
 [An Educational Sandbox For Web3](https://eth.build/)
 
@@ -32,15 +32,15 @@
 
 [Ethereum Developer Tool List](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
-[OpenZeppelin Library](https://github.com/OpenZeppelin/openzeppelin-contracts)A library for secure smart contract development. Build on a solid foundation of community-vetted code.
+[OpenZeppelin Library](https://github.com/OpenZeppelin/openzeppelin-contracts) A library for secure smart contract development. Build on a solid foundation of community-vetted code.
 
 [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
-[Modular Libraries](https://github.com/modular-network/ethereum-libraries#modular-libraries)Modular Libraries is a group of packages built for use on blockchains utilizing the Ethereum Virtual Machine (EVM). All libraries are deployed and linkable in your smart contracts on both Rinkeby, Ropsten, and Ethereum Mainnet.
+[Modular Libraries](https://github.com/modular-network/ethereum-libraries#modular-libraries) Modular Libraries is a group of packages built for use on blockchains utilizing the Ethereum Virtual Machine (EVM). All libraries are deployed and linkable in your smart contracts on both Rinkeby, Ropsten, and Ethereum Mainnet.
 
 [Solidity Patterns](https://github.com/fravoll/solidity-patterns)
 
-[DeFi Smart Contracts](https://github.com/defiprime/defi-smart-contracts)List of known DeFi apps smart contracts
+[DeFi Smart Contracts](https://github.com/defiprime/defi-smart-contracts) List of known DeFi apps smart contracts
 
 [The best blog to see how not to write smart contracts](https://samczsun.com/)
 
