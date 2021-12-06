@@ -1,5 +1,6 @@
 ##Dashboards
 
+
 [DAO Ecosystem Overview](https://deepdao.io/#/deepdao/dashboard)
 
 [Ethereum NFT Marketplace Feature Board](https://docs.google.com/spreadsheets/d/1Idy9TBXcWk6VpbASscXHSORaoaz0YR_arBvKRDu6xOI/edit#gid=0)
@@ -7,7 +8,9 @@
 [Comparing NFT Platforms : NFT Platforms](https://docs.google.com/spreadsheets/u/1/d/1eji5PVW-TQ8FbAaGTFR7tGwYeZ92pQss30ttLJjw3yg/htmlview)
 
 
+
 ##Smart Contracts
+
 
 [Smart Contract Tools and Practices ***](https://kernel.community/en/resources/smart-contracts)
 
