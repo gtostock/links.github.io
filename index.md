@@ -1,6 +1,17 @@
 ## Links
 
+###Dashboards
+
+[DAO Ecosystem Overview](https://deepdao.io/#/deepdao/dashboard)
+
+[Ethereum NFT Marketplace Feature Board](https://docs.google.com/spreadsheets/d/1Idy9TBXcWk6VpbASscXHSORaoaz0YR_arBvKRDu6xOI/edit#gid=0)
+
+[Comparing NFT Platforms : NFT Platforms](https://docs.google.com/spreadsheets/u/1/d/1eji5PVW-TQ8FbAaGTFR7tGwYeZ92pQss30ttLJjw3yg/htmlview)
+
+
 ###Smart Contracts
+
+[Smart Contract Tools and Practices ***](https://kernel.community/en/resources/smart-contracts)
 
 [CryptoZombies](https://cryptozombies.io/en/course/)
 
@@ -28,6 +39,7 @@
 
 [Smart Contract Tutorials](https://smartcontractdb.com/tutorialsX)
 
+
 ###Smart Contract Tools
 
 [Ethereum Developer Tool List](https://github.com/ConsenSys/ethereum-developer-tools-list)
@@ -44,7 +56,10 @@
 
 [The best blog to see how not to write smart contracts](https://samczsun.com/)
 
+
 ###Security
+
+[Security Best Practices](https://kernel.community/en/resources/security)
 
 [Eth Security Toolbox](https://github.com/trailofbits/eth-security-toolbox)
 
@@ -62,11 +77,27 @@
 
 [Rekt News](https://rekt.news/)
 
+
 ### Concepts
 
 [Finematics](https://www.youtube.com/c/Finematics/videos)
 
 [Zero Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+
+[How to DAO](https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ/edit#heading=h.xm43iia8mx4f)
+
+[NFT](https://future.a16z.com/nft-canon/)
+
+[Web3 Fundamentals](https://github.com/londonblockchainlabs/web3-fundamentals)
+
+[Bitcoin Information & Resources](https://github.com/londonblockchainlabs/web3-fundamentals)
+
+[The ultimate corporate toolkit](https://widgets.weforum.org/blockchain-toolkit/modules/index.html)
+
+[Resources To Get A Blockchain For Non Coders](https://medium.com/coinmonks/free-resources-to-get-a-blockchain-job-in-6-months-or-less-for-non-coders-5ddee72fbc7b)
+
+[Digital Communications Protocols](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/edit#gid=0)
+
 
 ### Development
 [Gitcoin](https://gitcoin.co/) Build and Fund the Open Web Together. Connect with the community developing digital public goods, creating financial freedom, and defining the future of the open web.
@@ -77,8 +108,10 @@
 ### Layer 2 Block Chains
 [Coinweb (CWEB)](https://coinweb.io/) Distributed ledger technology (DLT) is spread across multiple different blockchains and systems. Coinweb is unifying blockchains, closing the gaps between solutions and integrating new technical advancements to the space. In short: it’s a secure, fast, reliable, connected solution to the biggest issues facing blockchain today. And it all runs on Coinweb’s Inchain architecture.
 
+
 ###Defi
 [Compound (COMP)](https://compound.finance/) It is an Ethereum token that enables community governance of the Compound protocol. The protocol is a series of decentralized interest rate markets that allow users to supply and borrow Ethereum tokens at variable interest rates. COMP token holders and their delegates can also debate, propose, and vote on changes to the protocol. [More...](https://www.coinbase.com/price/compound)
+
 
 ### Mining
 
@@ -92,7 +125,6 @@
 
 ### Manage Mining
 
-
 [ASIC Miner Value](https://www.asicminervalue.com/) Miners profitability. Live income estimation of all known ASIC miners, updated every minute. Profits calculated over 200+ coins and 25+ algorithms.
 
 [Miner Stat](https://minerstat.com/) Easily manage your crypto mining rigs from anywhere
@@ -100,6 +132,7 @@
 ###Wallets and DeFi tools
 
 [Zapper](https://zapper.fi/) Track all your DeFi portfolio from one place. Invest into the latest opportunities in open finance.
+
 
 
 ### Blogs
