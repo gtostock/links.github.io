@@ -1,4 +1,4 @@
-##Dashboards
+## Dashboards
 
 
 [DAO Ecosystem Overview](https://deepdao.io/#/deepdao/dashboard)
@@ -9,7 +9,7 @@
 
 
 
-##Smart Contracts
+## Smart Contracts
 
 
 [Smart Contract Tools and Practices ***](https://kernel.community/en/resources/smart-contracts)
@@ -41,7 +41,7 @@
 [Smart Contract Tutorials](https://smartcontractdb.com/tutorialsX)
 
 
-##Smart Contract Tools
+## Smart Contract Tools
 
 [Ethereum Developer Tool List](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
@@ -58,7 +58,7 @@
 [The best blog to see how not to write smart contracts](https://samczsun.com/)
 
 
-##Security
+## Security
 
 [Security Best Practices](https://kernel.community/en/resources/security)
 
