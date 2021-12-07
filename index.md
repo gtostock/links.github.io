@@ -2,7 +2,6 @@
 
 ## Dashboards
 
-
 [DAO Ecosystem Overview](https://deepdao.io/#/deepdao/dashboard)
 
 [Ethereum NFT Marketplace Feature Board](https://docs.google.com/spreadsheets/d/1Idy9TBXcWk6VpbASscXHSORaoaz0YR_arBvKRDu6xOI/edit#gid=0)
@@ -12,7 +11,6 @@
 
 
 ## Smart Contracts
-
 
 [Smart Contract Tools and Practices ***](https://kernel.community/en/resources/smart-contracts)
 
@@ -103,16 +101,19 @@
 
 
 ## Development
+
 [Gitcoin](https://gitcoin.co/) Build and Fund the Open Web Together. Connect with the community developing digital public goods, creating financial freedom, and defining the future of the open web.
 
 [Design and Specification Tools](https://kernel.community/en/resources/design-spec)
 
 
 ## Layer 2 Block Chains
+
 [Coinweb (CWEB)](https://coinweb.io/) Distributed ledger technology (DLT) is spread across multiple different blockchains and systems. Coinweb is unifying blockchains, closing the gaps between solutions and integrating new technical advancements to the space. In short: it’s a secure, fast, reliable, connected solution to the biggest issues facing blockchain today. And it all runs on Coinweb’s Inchain architecture.
 
 
 ##Defi
+
 [Compound (COMP)](https://compound.finance/) It is an Ethereum token that enables community governance of the Compound protocol. The protocol is a series of decentralized interest rate markets that allow users to supply and borrow Ethereum tokens at variable interest rates. COMP token holders and their delegates can also debate, propose, and vote on changes to the protocol. [More...](https://www.coinbase.com/price/compound)
 
 
@@ -132,7 +133,8 @@
 
 [Miner Stat](https://minerstat.com/) Easily manage your crypto mining rigs from anywhere
 
-###Wallets and DeFi tools
+
+##Wallets and DeFi tools
 
 [Zapper](https://zapper.fi/) Track all your DeFi portfolio from one place. Invest into the latest opportunities in open finance.
 
