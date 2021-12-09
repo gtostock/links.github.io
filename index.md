@@ -9,6 +9,10 @@
 [Comparing NFT Platforms : NFT Platforms](https://docs.google.com/spreadsheets/u/1/d/1eji5PVW-TQ8FbAaGTFR7tGwYeZ92pQss30ttLJjw3yg/htmlview)
 
 
+## AirDrop
+
+[Crypto List (Google Sheet)](https://docs.google.com/spreadsheets/u/0/d/1f_9c8P28dXG5K6DXlHGeTQUww5K8Ft6GgCKYZ8scjb0/htmlview?s=09)
+
 
 ## Smart Contracts
 
