@@ -150,4 +150,4 @@
 
 ## ML
 
-[Artificial Intelligence - All in One](https://www.youtube.com/c/ArtificialIntelligenceAllinOne/videos)
+[Artificial Intelligence - All in One(Videos)](https://www.youtube.com/c/ArtificialIntelligenceAllinOne/videos)
