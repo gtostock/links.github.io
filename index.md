@@ -147,3 +147,7 @@
 ## Blogs
 
 [Coingecko](https://www.coingecko.com/en) 
+
+## ML
+
+[Artificial Intelligence - All in One](https://www.youtube.com/c/ArtificialIntelligenceAllinOne/videos)
