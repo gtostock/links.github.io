@@ -165,3 +165,18 @@
 [Java 8 Tutorials](https://github.com/winterbe/java8-tutorial)
 
 [Cracking The Coding Interview](https://github.com/careercup/CtCI-6th-Edition/tree/master/Java)
+
+## Python
+
+[JPM Python Training](https://github.com/jpmorganchase/python-training)
+
+## Opensource Application 
+
+[Flutter Paytm Clone](https://github.com/flutter-devs/flutter_paytm_clone)
+
+[AmazonPrime ReactJS Clone](https://github.com/peeyush14goyal/AmazonPrime-ReactJS-Clone)
+
+[Building Netflix](https://github.com/karlhadwen/netflix)
+
+[Netflix Clone](https://github.com/ehecker/spaceflix)
+
