@@ -154,11 +154,11 @@
 
 ## Core Java
 
-[Java esign Pattern](https://github.com/iluwatar/java-design-patterns)
+[Java Design Pattern](https://github.com/iluwatar/java-design-patterns)
 
 [Interview - Data Structure](https://github.com/kdn251/interviews)
 
-[Java esign Pattern](https://github.com/iluwatar/java-design-patterns)
+[Java Design Pattern](https://github.com/iluwatar/java-design-patterns)
 
 [Algorithm - Implemented in Java](https://github.com/TheAlgorithms/Java)
 
