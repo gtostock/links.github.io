@@ -180,3 +180,9 @@
 
 [Netflix Clone](https://github.com/ehecker/spaceflix)
 
+[ERP - Java, Freemarker](https://github.com/ilscipio/scipio-erp)
+
+[Open-source E-commerce Solution - MERN Stack](https://github.com/Viveckh/Veniqa)
+
+[Ecommerce - Spring boot Java](https://github.com/shopizer-ecommerce/shopizer)
+
