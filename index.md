@@ -151,3 +151,19 @@
 ## ML
 
 [Artificial Intelligence - All in One(Videos)](https://www.youtube.com/c/ArtificialIntelligenceAllinOne/videos)
+
+## Core Java
+
+[Java esign Pattern](https://github.com/iluwatar/java-design-patterns)
+
+[Interview - Data Structure](https://github.com/kdn251/interviews)
+
+[Java esign Pattern](https://github.com/iluwatar/java-design-patterns)
+
+[Algorithm - Implemented in Java](https://github.com/TheAlgorithms/Java)
+
+[Tutorials from Data Structures To AWS etc.](https://github.com/eugenp/tutorials)
+
+[Java 8 Tutorials](https://github.com/winterbe/java8-tutorial)
+
+[Cracking The Coding Interview](https://github.com/careercup/CtCI-6th-Edition/tree/master/Java)
