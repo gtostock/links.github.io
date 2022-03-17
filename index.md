@@ -158,8 +158,6 @@
 
 [Interview - Data Structure](https://github.com/kdn251/interviews)
 
-[Java Design Pattern](https://github.com/iluwatar/java-design-patterns)
-
 [Algorithm - Implemented in Java](https://github.com/TheAlgorithms/Java)
 
 [Tutorials from Data Structures To AWS etc.](https://github.com/eugenp/tutorials)
